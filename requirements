@@ -1,3 +1,4 @@
 import requests   #pip install requests
 from bs4 import BeautifulSoup
-import urrlib
+import urrlib.requests
+import random
